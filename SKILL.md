@@ -3,8 +3,9 @@ name: word-of-mouth-engine
 description: 'Transform satisfied customers into active ambassadors through Estee Lauder''s systematic approach to organic marketing: "Telephone, Telegraph, Tell-A-Woman.'
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5326
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
 - word-of-mouth-engine
